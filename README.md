@@ -6,7 +6,7 @@ Command line Application
     3. my-tweets
     4. do-what-it-says
 
-Using spotify-this-song command you will need to put the name of the song in parentheses and you will get the following info back
+Using spotify-this-song command you will need to put the name of the song in **parentheses** and you will get the following info back
    
     * Artist(s)
      
@@ -16,7 +16,7 @@ Using spotify-this-song command you will need to put the name of the song in par
      
      * The album that the song is from
 
-Using the movie-this command you will need to put the name of the movie in parentheses and you will get the following information back
+Using the movie-this command you will need to put the name of the movie in **parentheses** and you will get the following information back
    
     * Title of the movie.
    
